@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshika</h1>
+<h1 align="center">Hello 👋, I'm Anshika</h1>
 <h3 align="center">💻 B.Tech CSE Student | Aspiring Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika7070&label=Profile%20views&color=0e75b6&style=flat" alt="anshika7070" /> </p>
